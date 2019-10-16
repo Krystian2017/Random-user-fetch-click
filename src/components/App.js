@@ -42,10 +42,10 @@ class App extends Component {
             <a className="App-link" href="https://randomuser.me/">
               Random users generator
             </a>
-            . It is simply app and you can find the code on{" "}
+            . You can find the code on{" "}
             <a
               className="App-link"
-              href="https://github.com/Krystian2017/Random-users-fetch-click"
+              href="https://github.com/Krystian2017/Random-user-fetch-click"
             >
               my GitHub account.
             </a>
